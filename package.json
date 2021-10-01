@@ -1,0 +1,13 @@
+{
+  "name": "Henson-Kudi-Amah",
+  "version": "1.0.0",
+  "description": "my portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://Henson-Kudi.github.io/portfolio",
+  "license": "ISC"
+}
